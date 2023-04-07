@@ -127,3 +127,7 @@ Delete a Todo by ID.
 #### Response
 
 - Status: `204 No Content`
+
+### screenshots
+
+![Alt text](./assets/screenshot.png "Optional title")
